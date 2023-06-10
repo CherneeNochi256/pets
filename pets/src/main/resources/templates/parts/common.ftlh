@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"/>
-    <title>Sweater</title>
+    <title>Pets</title>
     <link rel="stylesheet" href="/static/style.css"/>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
